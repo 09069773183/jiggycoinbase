@@ -1,1 +1,1 @@
-# jiggycoinbase
+# nodecoin
